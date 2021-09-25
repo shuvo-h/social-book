@@ -1,0 +1,10 @@
+.profile-container{
+    margin: 0.5em;
+    padding: 0.5em;
+    text-align: center;
+    border-left: 10px solid;
+    border-radius: 10px;
+    border-image: linear-gradient(rgb(202, 202, 35),green);
+    border-image-slice: 1;
+    box-shadow: 5px 0px 5px 0px rgb(133, 54, 185);
+}
